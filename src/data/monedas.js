@@ -1,9 +1,9 @@
 const monedas = [
     {id: 'USD', name: 'Dolar de Estados Unidos'},
-    {id: 'MXN', name: 'Peso Mexicano'},
+    {id: 'COP', name: 'Peso Colombiano'},
     {id: 'EUR', name: 'Euro'},
     {id: 'GBP', name: 'Libra Esterlina'},
-    {id: 'COP', name: 'Peso Colombiano'}
+    
 ]
 
 export{
